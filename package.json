@@ -1,10 +1,10 @@
 {
-  "name": "nodejs-argo",
+  "name": "nodejs-evo",
   "version": "8.8.8",
   "description": "Thsi is a node project",
   "main": "index.js",
-  "author": "eooce",
-  "repository": "https://github.com/eooce/nodejs-argo",
+  "author": "yazhuy",
+  "repository": "https://github.com/yazhuy/nodejs-evo",
   "license": "MIT",
   "private": false,
   "scripts": {
